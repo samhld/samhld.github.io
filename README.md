@@ -1,5 +1,7 @@
 # Sam's Personal Page
 
+![Me](./images/sam.jpeg)
+
 ### Sam teaching
 
 * [Performance optimization](https://www.youtube.com/watch?v=af6Iseq6-ZA)
