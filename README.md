@@ -1,6 +1,6 @@
 # Sam's Personal Page
 
-![Me](./images/sam.jpeg)
+<img src="./images/sam.jpeg" width="200" height="200"/>
 
 ### Sam teaching
 
