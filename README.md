@@ -1,28 +1,28 @@
-# Sam's Personal Page
+# Sam's Publications
 
 <img src="./images/sam.jpeg" width="200" height="200"/>
 
-### Teachings
+### Evangelizing Technologies
+* Featured Publications:
+  - InfoWorld: [Why Edge-Computing Matters](https://www.infoworld.com/article/3668637/why-edge-computing-matters-for-modern-software-development.html)
+  - TheNewStack: [Bridging Time Series From Edge to Cloud](https://thenewstack.io/bridging-time-series-from-edge-to-cloud/)
+  - InfoWorld: [Overcoming the IoT Interoperability Hurdle](https://www.infoworld.com/article/3649795/overcoming-the-iot-interoperability-hurdle.html)
+* Edge-cloud time series concepts:
+  - [Part 1: Edge Data Replication to Cloud using InfluxDB](https://www.youtube.com/watch?v=qsj_TTpDyf4) 
+  - [Part 2: Configuring Edge-to-Cloud Data Replication in InfluxDB](https://www.youtube.com/watch?v=yCComgh-B74)
+  - [Edge-Computing with InfluxDB](https://www.youtube.com/watch?v=ZZ7KfVVUE44)
 
-* Flux data scriping languag:
-  - [Beginnging concepts](https://www.youtube.com/watch?v=o0ip9nqbna8&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY)
-  - [From, Range, Filter](https://www.youtube.com/watch?v=2p-U7HXwPls&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY&index=2)
+### Teaching Technologies
+
+* Flux data scripting language:
+  - [Beginning concepts](https://www.youtube.com/watch?v=o0ip9nqbna8&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY)
+  - [From, Range, Filter functions](https://www.youtube.com/watch?v=2p-U7HXwPls&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY&index=2)
   - [Windowing and aggregation](https://www.youtube.com/watch?v=JXdfN5s034w&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY&index=3)
 * [Performance optimization](https://www.youtube.com/watch?v=af6Iseq6-ZA)
 * [JSON parsing with Telegraf](https://www.youtube.com/watch?v=rC5uLbA2ZZU)
 
 
-### Evangelism
-Videos: 
-* Edge-cloud time series architecture:
-  - [Part 1](https://www.youtube.com/watch?v=qsj_TTpDyf4)
-  - [Part 2](https://www.youtube.com/watch?v=yCComgh-B74)
-* [Edge-computing with InfluxDB](https://www.youtube.com/watch?v=ZZ7KfVVUE44)
-* 
-3rd Party Published blogs:
-* InfoWorld: [Why edge-computing matters](https://www.infoworld.com/article/3668637/why-edge-computing-matters-for-modern-software-development.html)
-* TheNewStack: [Bridging Time Seires From Edge to Cloud](https://thenewstack.io/bridging-time-series-from-edge-to-cloud/)
-* InfoWorld: [Overcoming the Iot Interoperability Hurdle](https://www.infoworld.com/article/3649795/overcoming-the-iot-interoperability-hurdle.html)
+
 
 ### Companies
 * PingCAP
@@ -30,3 +30,45 @@ Videos:
 * TalkIQ (now DialPad)
 * Box
 * WhiteHat Security (now Synopsis)
+
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><a href="https://pingcap.com/">
+          <img src="images/pingcap-opengraph.jpg" alt="PingCAP Logo" height="100">
+        </a>
+    </td>
+    <td>
+      <a href="https://influxdata.com">
+        <img src="images/influxdata.png" alt="InfluxData Logo">
+      </a>
+    </td>
+  </tr>
+  <tr>
+
+  </tr>
+  <tr>
+    <td>
+      <a href="https://dialpad.com">
+        <img src="images/dialpad.png" alt="Dialpad Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://box.com">
+        <img src="images/box.png" alt="Dialpad Logo">
+      </a>
+    </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://synopsys.com">
+        <img src="images/synopsys.jpeg" alt="Dialpad Logo">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
