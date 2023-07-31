@@ -26,7 +26,14 @@
   /* CSS to set the background color of the table cells to white */
   td {
     background-color: white;
+    border: none;
   }
+
+  table {
+    border: none;
+    border-collapse: collapse;
+  }
+
 </style>
 
 <table>
@@ -49,7 +56,7 @@
   <tr>
     <td>
       <a href="https://dialpad.com">
-        <img src="images/dialpad.png" alt="Dialpad Logo" height="75" width="125">
+        <img src="images/dialp.png" alt="Dialpad Logo" height="75" width="125">
       </a>
     </td>
     <td>
