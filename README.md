@@ -21,16 +21,7 @@
 * [Performance optimization](https://www.youtube.com/watch?v=af6Iseq6-ZA)
 * [JSON parsing with Telegraf](https://www.youtube.com/watch?v=rC5uLbA2ZZU)
 
-
-
-
-### Companies
-* PingCAP
-* InfluxData
-* TalkIQ (now DialPad)
-* Box
-* WhiteHat Security (now Synopsis)
-
+### Employment history
 <style>
   /* CSS to set the background color of the table cells to white */
   td {
