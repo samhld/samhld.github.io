@@ -31,17 +31,24 @@
 * Box
 * WhiteHat Security (now Synopsis)
 
+<style>
+  /* CSS to set the background color of the table cells to white */
+  td {
+    background-color: white;
+  }
+</style>
+
 <table>
   <tr>
   </tr>
   <tr>
     <td><a href="https://pingcap.com/">
-          <img src="images/pingcap-opengraph.jpg" alt="PingCAP Logo" height="100">
+          <img src="images/pingcap-opengraph.jpg" alt="PingCAP Logo" height="75" width="75">
         </a>
     </td>
     <td>
       <a href="https://influxdata.com">
-        <img src="images/influxdata.png" alt="InfluxData Logo">
+        <img src="images/influxdata.png" alt="InfluxData Logo" height="75" width="125">
       </a>
     </td>
   </tr>
@@ -51,12 +58,12 @@
   <tr>
     <td>
       <a href="https://dialpad.com">
-        <img src="images/dialpad.png" alt="Dialpad Logo">
+        <img src="images/dialpad.png" alt="Dialpad Logo" height="75" width="125">
       </a>
     </td>
     <td>
       <a href="https://box.com">
-        <img src="images/box.png" alt="Dialpad Logo">
+        <img src="images/box.png" alt="Dialpad Logo" height="75" width="125">
       </a>
     </td>
   </tr>
@@ -65,7 +72,7 @@
   <tr>
     <td>
       <a href="https://synopsys.com">
-        <img src="images/synopsys.jpeg" alt="Dialpad Logo">
+        <img src="images/synopsys.jpeg" alt="Synopsys Logo" height="50" width="175">
       </a>
     </td>
   </tr>
