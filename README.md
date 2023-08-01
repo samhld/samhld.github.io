@@ -11,6 +11,7 @@
   - [Part 1: Edge Data Replication to Cloud using InfluxDB](https://www.youtube.com/watch?v=qsj_TTpDyf4) 
   - [Part 2: Configuring Edge-to-Cloud Data Replication in InfluxDB](https://www.youtube.com/watch?v=yCComgh-B74)
   - [Edge-Computing with InfluxDB](https://www.youtube.com/watch?v=ZZ7KfVVUE44)
+* [Announcing a distributed database innovation](https://www.pingcap.com/blog/tidb-resource-control-workload-consolidation-transactional-apps/)
 
 ### Teaching Technologies
 
