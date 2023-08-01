@@ -2,6 +2,10 @@
 
 <img src="./images/sam.jpeg" width="200" height="200"/>
 
+### Product highlights
+* Framework for multi-tenancy in a distributed SQL database ([blog](https://www.pingcap.com/blog/tidb-resource-control-workload-consolidation-transactional-apps/))
+* Streaming data replication and batch processing of time series data from the edge to the cloud ([VentureBeat announcement](https://venturebeat.com/data-infrastructure/influxdata-introduces-new-edge-data-replication-capability/))
+
 ### Evangelizing Technologies
 * Featured Publications:
   - InfoWorld: [Why Edge-Computing Matters](https://www.infoworld.com/article/3668637/why-edge-computing-matters-for-modern-software-development.html)
