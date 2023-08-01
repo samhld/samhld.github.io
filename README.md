@@ -33,7 +33,6 @@
     border: none;
     border-collapse: collapse;
   }
-
 </style>
 
 <table>
@@ -56,12 +55,12 @@
   <tr>
     <td>
       <a href="https://dialpad.com">
-        <img src="images/dialp.png" alt="Dialpad Logo" height="75" width="125">
+        <img src="images/dialpad.png" alt="Dialpad Logo" height="75" width="125">
       </a>
     </td>
     <td>
       <a href="https://box.com">
-        <img src="images/box.png" alt="Dialpad Logo" height="75" width="125">
+        <img src="images/box.png" alt="Dialpad Logo" height="25" width="50">
       </a>
     </td>
   </tr>
@@ -70,7 +69,7 @@
   <tr>
     <td>
       <a href="https://synopsys.com">
-        <img src="images/synopsys.jpeg" alt="Synopsys Logo" height="50" width="175">
+        <img src="images/synopsys.jpeg" alt="Synopsys Logo" height="25" width="100">
       </a>
     </td>
   </tr>
