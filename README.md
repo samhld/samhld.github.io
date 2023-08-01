@@ -1,10 +1,10 @@
-# Sam's Publications
-
 <img src="./images/sam.jpeg" width="200" height="200"/>
+
+# Sam's Publications
 
 ### Product highlights
 * Framework for multi-tenancy in a distributed SQL database ([blog](https://www.pingcap.com/blog/tidb-resource-control-workload-consolidation-transactional-apps/))
-* Streaming data replication and batch processing of time series data from the edge to the cloud ([VentureBeat announcement](https://venturebeat.com/data-infrastructure/influxdata-introduces-new-edge-data-replication-capability/))
+* Streaming data replication and batch processing from the edge to the cloud ([VentureBeat announcement](https://venturebeat.com/data-infrastructure/influxdata-introduces-new-edge-data-replication-capability/))
 
 ### Evangelizing Technologies
 * Featured Publications:
