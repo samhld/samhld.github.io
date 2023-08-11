@@ -18,8 +18,6 @@
 * [Announcing a distributed database innovation](https://www.pingcap.com/blog/tidb-resource-control-workload-consolidation-transactional-apps/)
 * [Discussing some PM philosophy](https://youtu.be/DRwVh-OWOyU?t=579https://youtu.be/DRwVh-OWOyU?t=579)
 
-**Note:** A lot of evangelism happens internally as well. Sometimes that takes the form of enabling go-to-market teams. Other times it means positioning a new feature idea to get buy-in from leadership. For the latter, I have two examples I can share. 
-* The first is a [brief feature documentary](https://youtu.be/cjMUurex9ww?) I made in a pinch to sell leadership on an idea (video quality, audio alignment, and editing are not to be judged!). P.S. This is "Youtube private" (so please don't share)
 
 ### Teaching Technologies
 
