@@ -5,6 +5,7 @@
 ### Product highlights
 * Framework for multi-tenancy in a distributed SQL database ([blog](https://www.pingcap.com/blog/tidb-resource-control-workload-consolidation-transactional-apps/))
 * Streaming data replication and batch processing from the edge to the cloud ([VentureBeat announcement](https://venturebeat.com/data-infrastructure/influxdata-introduces-new-edge-data-replication-capability/))
+* Latest stable [release webinar](https://www.youtube.com/watch?v=8GZ6FwM52a4)
 
 ### Evangelizing Technologies
 * Featured Publications:
