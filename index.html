@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sam Dillard - Tech Professional</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .profile-section {
+            background: white;
+            border-radius: 10px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .section-title {
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+        }
+        .highlight {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+        .logo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+        .logo-container {
+            text-align: center;
+        }
+        .logo-container img {
+            max-width: 150px;
+            height: auto;
+            margin-bottom: 0.5rem;
+        }
+        .tech-card {
+            background: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .tech-card h3 {
+            color: #34495e;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <!-- Profile Section -->
+        <div class="profile-section text-center mb-5">
+            <img src="./images/sam.jpeg" class="rounded-circle mb-3" alt="Sam Dillard" width="200" height="200">
+            <h1 class="display-5 mb-0">Sam Dillard</h1>
+            <p class="lead text-muted">Tech Professional & Developer</p>
+        </div>
+
+        <!-- Product Highlights -->
+        <div class="tech-card">
+            <h2 class="section-title">Product Highlights</h2>
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <div class="highlight">
+                        <h4>Multi-tenancy Framework</h4>
+                        <p>Framework for multi-tenancy in a distributed SQL database</p>
+                        <a href="https://www.pingcap.com/blog/tidb-resource-control-workload-consolidation-transactional-apps/" class="btn btn-outline-primary btn-sm">Read Blog</a>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="highlight">
+                        <h4>Edge-Cloud Integration</h4>
+                        <p>Streaming data replication and batch processing from edge to cloud</p>
+                        <a href="https://venturebeat.com/data-infrastructure/influxdata-introduces-new-edge-data-replication-capability/" class="btn btn-outline-primary btn-sm">View Announcement</a>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="highlight">
+                        <h4>Latest Release</h4>
+                        <p>Latest stable release webinar</p>
+                        <a href="https://www.youtube.com/watch?v=8GZ6FwM52a4" class="btn btn-outline-primary btn-sm">Watch Webinar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Publications -->
+        <div class="tech-card">
+            <h2 class="section-title">Publications</h2>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <div class="highlight">
+                        <h4>Featured Articles</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="https://www.infoworld.com/article/3668637/why-edge-computing-matters-for-modern-software-development.html">Why Edge-Computing Matters</a></li>
+                            <li><a href="https://thenewstack.io/bridging-time-series-from-edge-to-cloud/">Bridging Time Series From Edge to Cloud</a></li>
+                            <li><a href="https://www.infoworld.com/article/3649795/overcoming-the-iot-interoperability-hurdle.html">Overcoming the IoT Interoperability Hurdle</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <div class="highlight">
+                        <h4>Video Series</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="https://www.youtube.com/watch?v=qsj_TTpDyf4">Edge Data Replication to Cloud</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=yCComgh-B74">Configuring Edge-to-Cloud Replication</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=ZZ7KfVVUE44">Edge-Computing with InfluxDB</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Teaching Technologies -->
+        <div class="tech-card">
+            <h2 class="section-title">Teaching Technologies</h2>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <div class="highlight">
+                        <h4>Flux Data Scripting</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="https://www.youtube.com/watch?v=o0ip9nqbna8&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY">Beginning Concepts</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=2p-U7HXwPls&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY&index=2">From, Range, Filter Functions</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=JXdfN5s034w&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY&index=3">Windowing and Aggregation</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <div class="highlight">
+                        <h4>Additional Resources</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="https://www.youtube.com/watch?v=af6Iseq6-ZA">Performance Optimization</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=rC5uLbA2ZZU">JSON Parsing with Telegraf</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Employment History -->
+        <div class="tech-card">
+            <h2 class="section-title">Employment History</h2>
+            <div class="logo-grid">
+                <div class="logo-container">
+                    <a href="https://pingcap.com/">
+                        <img src="images/pingcap-opengraph.jpg" alt="PingCAP Logo" loading="lazy">
+                    </a>
+                </div>
+                <div class="logo-container">
+                    <a href="https://influxdata.com">
+                        <img src="images/influxdata.png" alt="InfluxData Logo" loading="lazy">
+                    </a>
+                </div>
+                <div class="logo-container">
+                    <a href="https://dialpad.com">
+                        <img src="images/dialpad.png" alt="Dialpad Logo" loading="lazy">
+                    </a>
+                </div>
+                <div class="logo-container">
+                    <a href="https://box.com">
+                        <img src="images/box.png" alt="Box Logo" loading="lazy">
+                    </a>
+                </div>
+                <div class="logo-container">
+                    <a href="https://synopsys.com">
+                        <img src="images/synopsys.jpeg" alt="Synopsys Logo" loading="lazy">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

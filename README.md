@@ -7,7 +7,7 @@
 * Streaming data replication and batch processing from the edge to the cloud ([VentureBeat announcement](https://venturebeat.com/data-infrastructure/influxdata-introduces-new-edge-data-replication-capability/))
 * Latest stable [release webinar](https://www.youtube.com/watch?v=8GZ6FwM52a4)
 
-### Evangelizing Technologies
+### Evangelizing Technologies 
 * Featured Publications:
   - InfoWorld: [Why Edge-Computing Matters](https://www.infoworld.com/article/3668637/why-edge-computing-matters-for-modern-software-development.html)
   - TheNewStack: [Bridging Time Series From Edge to Cloud](https://thenewstack.io/bridging-time-series-from-edge-to-cloud/)
