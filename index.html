@@ -53,6 +53,23 @@
             color: #34495e;
             margin-bottom: 1rem;
         }
+        .video-thumbnail {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s;
+        }
+
+        .video-thumbnail:hover {
+            transform: scale(1.02);
+        }
+
+        .video-title {
+            text-align: center;
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+            color: #333;
+        }
     </style>
 </head>
 <body>
@@ -148,7 +165,7 @@
                         <div class="row mt-4">
                             <div class="col-md-4 mb-3">
                                 <div class="logo-container">
-                                    <img src="images/publications/infoworld.png" alt="InfoWorld" class="img-fluid" style="max-height: 100px;" class="mx-auto d-block">
+                                    <img src="images/publications/infoworld.png" alt="InfoWorld" class="img-fluid" style="max-height: 100px;">
                                 </div>
                                 <ul class="text-start">
                                     <li><a href="https://www.infoworld.com/article/3668637/why-edge-computing-matters-for-modern-software-development.html" target="_blank">Why Edge-Computing Matters</a></li>
@@ -177,27 +194,63 @@
                 <div class="col-md-6 mb-3">
                     <div class="highlight">
                         <h4>Video Series</h4>
-                        <div class="text-center mb-3">
-                            <img src="./images/whiteboarding" alt="Video Series Whiteboarding" class="img-fluid" style="max-height: 300px;">
+                        <div class="mt-4">
+                            <h5 class="mb-3">AI</h5>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <a href="https://www.youtube.com/watch?v=pVvilej76Fc" target="_blank" class="video-thumbnail">
+                                        <img src="./images/video_caps/rag_pod.png" alt="RAG Pod" class="img-fluid rounded">
+                                        <div class="video-title">RAG Pod</div>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
-                        <ul>
-                            <li><a href="https://www.youtube.com/watch?v=qsj_TTpDyf4" target="_blank">Edge Data Replication to Cloud</a></li>
-                            <li><a href="https://www.youtube.com/watch?v=yCComgh-B74" target="_blank">Configuring Edge-to-Cloud Replication</a></li>
-                            <li><a href="https://www.youtube.com/watch?v=ZZ7KfVVUE44" target="_blank">Edge-Computing with InfluxDB</a></li>
-                            <li><a href="https://www.youtube.com/watch?v=CU31SFuo24U" target="_blank">InfluxDB Edge-Cloud Integration</a></li>
-                        </ul>
+                        <div class="mt-4">
+                            <h5 class="mb-3">Database</h5>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <a href="https://www.youtube.com/watch?v=CU31BFuo24U" target="_blank" class="video-thumbnail">
+                                        <img src="./images/video_caps/hattrick.png" alt="HTAP System Benchmarking" class="img-fluid rounded">
+                                        <div class="video-title">HTAP System Benchmarking</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mt-4">
+                            <h5 class="mb-3">(I)IoT</h5>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <a href="https://www.youtube.com/watch?v=qsj_TTpDyf4" target="_blank" class="video-thumbnail">
+                                        <img src="./images/video_caps/whiteboarding" alt="Edge Data Replication to Cloud" class="img-fluid rounded">
+                                        <div class="video-title">Edge Data Replication to Cloud</div>
+                                    </a>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <a href="https://www.youtube.com/watch?v=ZZ7KfVVUE44" target="_blank" class="video-thumbnail">
+                                        <img src="./images/video_caps/downsampling.png" alt="Edge-Computing with InfluxDB" class="img-fluid rounded">
+                                        <div class="video-title">Edge-Computing with InfluxDB</div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row mt-4">
+                                <div class="col-md-6 mb-3">
+                                    <a href="https://www.youtube.com/watch?v=yCComgh-B74" target="_blank" class="video-thumbnail">
+                                        <img src="./images/video_caps/edr_setup.png" alt="Configuring Edge-to-Cloud Replication" class="img-fluid rounded">
+                                        <div class="video-title">Configuring Edge-to-Cloud Replication</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-
-        <!-- Teaching Technologies -->
-        <div class="tech-card">
-            <h2 class="section-title">Teaching Technologies</h2>
-            <div class="row">
+            <div class="row mt-4">
                 <div class="col-md-6 mb-3">
                     <div class="highlight">
-                        <h4>Flux Data Scripting</h4>
+                        <h4>Teaching Technologies</h4>
+                        <div class="text-center mb-3">
+                            <img src="./images/pubcs.png" alt="Flux Publications" class="img-fluid" style="max-height: 300px;">
+                        </div>
                         <ul>
                             <li><a href="https://www.youtube.com/watch?v=o0ip9nqbna8&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY" target="_blank">Beginning Concepts</a></li>
                             <li><a href="https://www.youtube.com/watch?v=2p-U7HXwPls&list=PLzE_VtU17ZlS59fTP4jGX0uEdaw3jZzYY&index=2" target="_blank">From, Range, Filter Functions</a></li>
